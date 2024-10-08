@@ -1,1 +1,1 @@
-This contains my learning and understanding about ES6 data manipulation
+# Solutions to tasks on ES6 data manipulation
