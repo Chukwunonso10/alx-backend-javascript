@@ -19,5 +19,5 @@ function getListStudents() {
     ];
 }
 
-let students = getListStudents;
-console.log(students)
+// let students = getListStudents;
+// console.log(students)
